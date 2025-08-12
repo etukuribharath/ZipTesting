@@ -1,10 +1,58 @@
 {
-  "name": "testComponentzip",
-  "label": "testComponentzip",
+  "name": "PEga_QuadMarketPlace_CustomNewCreate2",
+  "label": "CustomNewCreate2",
+  "description": "CustomNewCreate2",
+  "organization": "PEga",
   "version": "1.0.0",
-  "organization": "Test",
   "library": "QuadMarketPlace",
-  "componentKey": "testComponentzip",
+  "allowedApplications": [],
+  "componentKey": "PEga_QuadMarketPlace_CustomNewCreate2",
   "type": "Field",
-  "subtype": "Text"
+  "subtype": "Text",
+  "properties": [
+    {
+      "name": "label",
+      "label": "Label value",
+      "format": "TEXT"
+    },
+    {
+      "name": "placeholder",
+      "label": "Placeholder",
+      "format": "TEXT"
+    },
+    {
+      "name": "visibility",
+      "label": "Visible",
+      "format": "VISIBILITY"
+    },
+    {
+      "name": "disabled",
+      "label": "Disabled",
+      "format": "DISABLED"
+    },
+    {
+      "name": "required",
+      "label": "Required",
+      "format": "REQUIRED"
+    },
+    {
+      "label": "Advanced",
+      "format": "GROUP",
+      "collapsible": true,
+      "properties": [
+        {
+          "name": "testId",
+          "label": "Test ID",
+          "format": "TEXT",
+          "ignorePattern": "[^-_\\p{N}\\p{L}]",
+          "includeAnnotations": false
+        }
+      ]
+    }
+  ],
+  "defaultConfig": {
+    "detailFVLItem": true,
+    "isFormWidth": false,
+    "isContainerWidth": false
+  }
 }
