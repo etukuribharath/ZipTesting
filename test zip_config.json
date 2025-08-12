@@ -1,12 +1,12 @@
 {
-  "name": "PEga_QuadMarketPlace_CustomNewCreate2",
-  "label": "CustomNewCreate2",
-  "description": "CustomNewCreate2",
+  "name": "PEga_QuadMarketPlace_CustomNewCreate3",
+  "label": "CustomNewCreate3",
+  "description": "CustomNewCreate3",
   "organization": "PEga",
   "version": "1.0.0",
   "library": "QuadMarketPlace",
   "allowedApplications": [],
-  "componentKey": "PEga_QuadMarketPlace_CustomNewCreate2",
+  "componentKey": "PEga_QuadMarketPlace_CustomNewCreate3",
   "type": "Field",
   "subtype": "Text",
   "properties": [
