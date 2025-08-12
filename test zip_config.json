@@ -2,8 +2,9 @@
   "name": "testComponentzip",
   "label": "testComponentzip",
   "version": "1.0.0",
-  "organization": "PEga",
+  "organization": "Test",
   "library": "QuadMarketPlace",
   "componentKey": "testComponentzip",
-  "type": "Field"
+  "type": "Field",
+  "subtype": "Text"
 }
