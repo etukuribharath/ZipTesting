@@ -1,9 +1,9 @@
 {
-  "name": "testComponentzip", ✅
-  "label": "testComponentzip", ✅
-  "version": "1.0.0", ✅
-  "organization": "PEga", ✅
-  "library": "QuadMarketPlace", ✅
-  "componentKey": "testComponentzip", ✅
-  "type": "Field", ✅
+  "name": "testComponentzip",
+  "label": "testComponentzip",
+  "version": "1.0.0",
+  "organization": "PEga",
+  "library": "QuadMarketPlace",
+  "componentKey": "testComponentzip",
+  "type": "Field"
 }
